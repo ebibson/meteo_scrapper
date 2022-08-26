@@ -1,0 +1,30 @@
+name: Integration
+
+
+on: 
+  push:
+    branches: ["main"]
+
+  pull_requests: 
+    branches: ["main"]
+
+  
+jobs:
+  Integrate:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - name: Install Python
+          uses: actions/setup-python@v3
+          with: 
+            python-version: "3.10"
+      - name: install requests, beautifulsoup
+        run: pip install requests, bs4,
+      - name: launch the meteo_scrapper
+        run: python main.py
+      - name: Git branches
+        run: git branch
+
+
