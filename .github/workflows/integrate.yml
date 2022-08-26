@@ -1,7 +1,11 @@
 name: Integration
 
 
-on: 
+on:
+
+  schedule:
+    - cron: "*/20 * * * *"
+
   push:
     branches: ["main"]
 
