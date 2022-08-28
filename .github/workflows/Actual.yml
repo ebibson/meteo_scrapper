@@ -1,0 +1,38 @@
+name: Some Git Config and Actions
+
+on:
+
+  schedule:
+    - cron: "*/20 * * * *"
+  push:
+    branches: ["main"]
+
+  pull_request:
+    branches: ["main"]
+
+
+jobs:
+
+  Git It:
+
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - name: install python3.10
+        uses: actions/setup-python@v3
+        with:
+          python-version: "3.10"
+      - name: install requests, beautifulsoup
+        run: pip install requests, bs4
+      - name: config Git: email
+        run: git config --global user.email="me@gmail"
+      - name: config Git: name
+        run: git config --global user.name="ralph_test"
+      - name: Some ralph_test
+        run: ls
+      - name: clone the repository
+        run: git clone https://github.com/ebibson/meteo_scrapper.git
+
+
