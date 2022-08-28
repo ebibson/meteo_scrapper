@@ -1,6 +1,5 @@
 import requests 
 import bs4
-from pprint import pprint
 
 
 site = requests.get("https://www.msn.com/fr-fr/meteo").text
@@ -14,21 +13,28 @@ date = soup.find_all('div', class_="labelUpdatetime-E1_1")
 
 def main():
 
-    
+    meteo = open("meteo.txt", "w")
     for dt in date:
         print(dt.text)
+        meteo.write(dt.text)
 
     for link in someLinks:
         print(link.text)
+        texting = str(link.text).split("\u200e")[0]
+        print(texting)
+        meteo.write(f"\n{texting} Celsius")
 
     for town in TOWN:
         print(town.text)
+        meteo.write(f'\n{town.text}')
 
     for summaries in summary:
         print(summaries.text)
+        meteo.write('\n' + summaries.text)
 
     for something in advice:
         print(something.text)
+        meteo.write('\n' + something.text)
 
 def for_test():
     global TOWN, summary, advice
