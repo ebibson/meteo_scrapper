@@ -30,5 +30,10 @@ jobs:
         run: python main.py
       - name: Git branches
         run: git branch
+      - name: get files
+        run: ls
+      - name: getContent of meteo.txt
+        run: cat meteo.txt
+
 
 
