@@ -30,7 +30,11 @@ jobs:
         run: python main.py
       - name: getContent of meteo.txt
         run: cat meteo.txt
-      - name: try push meteo.txt
+      - name: try push meteo.txt: correction
+        run: 
+          git add .
+      - name: step 1
+        run: git commit -m "step 1"
+      - name: step 2
         run: git push -u origin main
-
 
