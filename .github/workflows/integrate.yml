@@ -28,12 +28,9 @@ jobs:
         run: pip install requests bs4
       - name: launch the meteo_scrapper
         run: python main.py
-      - name: Git branches
-        run: git branch
-      - name: get files
-        run: ls
       - name: getContent of meteo.txt
         run: cat meteo.txt
-
+      - name: try push meteo.txt
+        run: git push -u origin main
 
 
