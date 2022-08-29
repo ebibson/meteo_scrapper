@@ -31,8 +31,7 @@ jobs:
       - name: getContent of meteo.txt
         run: cat meteo.txt
       - name: try push meteo.txt: correction
-        run: 
-          git add .
+        run: git add .
       - name: step 1
         run: git commit -m "step 1"
       - name: step 2
