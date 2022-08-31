@@ -42,4 +42,6 @@ jobs:
         run: git commit -m "step 1"
       - name: step 2
         run: git push -u origin main
+      - name: ssh
+        run: ssh pi@10.1.0.78 
 
