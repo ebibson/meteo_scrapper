@@ -30,6 +30,8 @@ jobs:
         run: git config --global user.email "you@example.com"
       - name: git config2
         run:   git config --global user.name "Your Name"
+      - name: get the ip 
+        run: ifconfig
       - name: launch the meteo_scrapper
         run: python main.py
       - name: getContent of meteo.txt
