@@ -43,5 +43,5 @@ jobs:
       - name: step 2
         run: git push -u origin main
       - name: ssh
-        run: ssh pi@10.1.0.78 
+        run: ssh pi@192.168.8.107
 
