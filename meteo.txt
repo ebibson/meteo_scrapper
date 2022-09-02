@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 08:01
 20 Celsius
 Yaoundé, Région du Centre, Cameroun
 Attention aux averses de pluie éparses. La température maximale sera de 24°.
 Nuageux
+=======
+02:02
+21 Celsius
+Des Moines, Iowa, Ã‰tats-Unis
+Le ciel sera dÃ©gagÃ©. La tempÃ©rature minimale sera de 19Â°.
+Temps dÃ©gagÃ©
+>>>>>>> 631011ca048d771810c285cbcf96ac0954d7c029
