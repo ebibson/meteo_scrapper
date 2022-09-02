@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 08:01
 20 Celsius
 Yaound�, R�gion du Centre, Cameroun
@@ -11,3 +12,10 @@ Des Moines, Iowa, États-Unis
 Le ciel sera dégagé. La température minimale sera de 19°.
 Temps dégagé
 >>>>>>> 631011ca048d771810c285cbcf96ac0954d7c029
+=======
+03:40
+18 Celsius
+San José, Californie, États-Unis
+Le ciel sera dégagé. La température minimale sera de 15°.
+Globalement nuageux
+>>>>>>> 90695962fac8acd607f3db31131b43aee7dba65d
