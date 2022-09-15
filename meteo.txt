@@ -1,5 +1,5 @@
-20:20
-29 Celsius
-San Antonio, Texas, États-Unis
-Le ciel sera dégagé. La température minimale sera de 21°.
-Temps dégagé
+21:10
+18 Celsius
+Redmond, Washington, États-Unis
+Le ciel sera en grande partie nuageux. La température minimale sera de 15°.
+Fumée
