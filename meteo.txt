@@ -1,5 +1,5 @@
-17:12
-10 Celsius
-Washington, Virginie, États-Unis
-Le ciel sera ensoleillé. La température maximale sera de 14°.
-Ensoleillé
+17:34
+15 Celsius
+Boydton, Virginie, États-Unis
+Le ciel sera nuageux. La température minimale sera de 11°.
+Temps dégagé
