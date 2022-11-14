@@ -1,5 +1,5 @@
-13:15
-7 Celsius
-Washington, Virginie, États-Unis
-Le ciel sera ensoleillé. La température maximale sera de 9°.
-Ensoleillé
+12:40
+4 Celsius
+Des Moines, Iowa, États-Unis
+Le ciel sera nuageux. La température maximale sera de 4°. Températures avoisinant 0°C.
+Globalement ensoleillé
