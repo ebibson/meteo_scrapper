@@ -1,5 +1,5 @@
-15:12
-7 Celsius
-Washington, Virginie, États-Unis
-Le ciel sera en grande partie nuageux. La température maximale sera de 8°.
-Nuageux
+15:31
+10 Celsius
+Boydton, Virginie, États-Unis
+Le ciel sera ensoleillé. La température maximale sera de 11°.
+Ensoleillé
