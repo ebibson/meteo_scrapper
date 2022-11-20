@@ -1,5 +1,5 @@
-14:11
-10 Celsius
-San Antonio, Texas, États-Unis
-Le ciel sera nuageux. La température maximale sera de 10°.
-Nuageux
+15:30
+2 Celsius
+Washington, Virginie, États-Unis
+Le ciel sera ensoleillé. La température maximale sera de 4°. Températures avoisinant 0°C.
+Ensoleillé
