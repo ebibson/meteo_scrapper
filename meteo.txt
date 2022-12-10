@@ -1,5 +1,5 @@
-22:33
-2 Celsius
-Des Moines, Iowa, États-Unis
-Le ciel sera nuageux. La température minimale sera de 1°. Températures avoisinant 0°C.
-Nuageux
+23:45
+1 Celsius
+Washington, Virginie, États-Unis
+Le ciel sera en grande partie nuageux. La température minimale sera de 0°. Températures avoisinant 0°C.
+Globalement clair
