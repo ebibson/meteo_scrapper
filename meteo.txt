@@ -1,5 +1,5 @@
-08:09
-6 Celsius
+08:24
+7 Celsius
 Paris, IdF
-Cette nuit, le temps sera pluvieux. La température minimale sera de 6°.
-Nuageux
+Cette nuit, le temps sera pluvieux. La température minimale sera de 7°.
+Globalement nuageux
