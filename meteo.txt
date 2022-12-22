@@ -1,5 +1,5 @@
-10:09
-11 Celsius
+10:26
+12 Celsius
 Paris, IdF
 Emportez votre parapluie. La journée sera pluvieuse. La température maximale sera de 13°.
-Globalement nuageux
+Nuageux
