@@ -1,5 +1,5 @@
-16:43
+17:13
 12 Celsius
 Paris, IdF
-Emportez votre parapluie. La journée sera pluvieuse. La température maximale sera de 13°.
-Pluie
+Cette nuit, le temps sera pluvieux. La température minimale sera de 12°.
+Averses de pluie
