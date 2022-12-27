@@ -1,5 +1,5 @@
-10:10
-4 Celsius
+10:25
+3 Celsius
 Paris, IdF
 Le ciel sera principalement ensoleillé. La température maximale sera de 9°.
-Globalement nuageux
+Nuageux
