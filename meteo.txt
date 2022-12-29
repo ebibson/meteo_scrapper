@@ -1,5 +1,5 @@
-08:43
--1 Celsius
-Washington, Virginie, États-Unis
-Le ciel sera ensoleillé. La température maximale sera de 12°.
-Ensoleillé
+15:09
+12 Celsius
+Paris, IdF
+Le ciel sera principalement ensoleillé. La température maximale sera de 12°.
+Nuageux
