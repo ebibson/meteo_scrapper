@@ -1,5 +1,5 @@
-11:12
-1 Celsius
-Washington, Virginie, États-Unis
-Le ciel sera ensoleillé. La température maximale sera de 3°.
-Globalement ensoleillé
+09:38
+9 Celsius
+Phoenix, Arizona, États-Unis
+Le ciel sera ensoleillé. La température maximale sera de 19°.
+Ensoleillé
