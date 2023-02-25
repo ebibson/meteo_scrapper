@@ -1,5 +1,5 @@
-16:25
-3 Celsius
-Washington, Virginie, États-Unis
-Le ciel sera en grande partie nuageux. La température maximale sera de 4°.
-Nuageux
+14:43
+23 Celsius
+Phoenix, Arizona, États-Unis
+Le ciel sera ensoleillé. La température maximale sera de 23°.
+Ensoleillé
