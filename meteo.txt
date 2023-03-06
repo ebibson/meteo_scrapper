@@ -1,5 +1,5 @@
-10:13
-9 Celsius
-San José, Californie, États-Unis
-Le ciel sera en grande partie nuageux. La température maximale sera de 12°.
-Pluie légère
+12:34
+6 Celsius
+Des Moines, Iowa, États-Unis
+Le ciel sera nuageux. Le temps sera très venteux, avec une température maximale de 8°.
+Nuageux
