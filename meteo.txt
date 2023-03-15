@@ -1,5 +1,5 @@
-01:32
-15 Celsius
-San Antonio, Texas, États-Unis
-Le ciel sera nuageux. La température maximale sera de 23°.
-Nuageux
+02:44
+0 Celsius
+Boydton, Virginie, États-Unis
+Le ciel sera ensoleillé. La température maximale sera de 13°.
+Temps dégagé
