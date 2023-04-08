@@ -1,5 +1,5 @@
-09:10
-4 Celsius
+09:24
+6 Celsius
 Washington, Virginie, États-Unis
-Le ciel sera ensoleillé. La température maximale sera de 10°.
-Partiellement ensoleillé
+Le ciel sera principalement ensoleillé. La température maximale sera de 10°.
+Globalement ensoleillé
