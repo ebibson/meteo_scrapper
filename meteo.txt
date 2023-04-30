@@ -1,5 +1,5 @@
-10:43
-24 Celsius
-San Antonio, Texas, États-Unis
-Le ciel sera ensoleillé.  La température maximale sera de 31°.
-Ensoleillé
+11:10
+8 Celsius
+Des Moines, Iowa, États-Unis
+Le ciel sera nuageux.  Le temps sera légèrement venteux, avec une température maximale de 11°.
+Nuageux/Wind
