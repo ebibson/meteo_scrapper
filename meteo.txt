@@ -1,5 +1,5 @@
-00:10
-16 Celsius
-Boydton, Virginie, États-Unis
-Le ciel sera ensoleillé.  La température maximale sera de 23°.
-Nuageux
+21:28
+33 Celsius
+Phoenix, Arizona, États-Unis
+Le ciel sera dégagé.  La température minimale sera de 23°.
+Temps dégagé
