@@ -1,5 +1,5 @@
-10:43
-26 Celsius
-Boydton, Virginie, États-Unis
-Le ciel sera ensoleillé.  La température maximale sera de 31°.
-Ensoleillé
+10:10
+23 Celsius
+Des Moines, Iowa, États-Unis
+Le ciel sera en grande partie nuageux.  Le temps sera légèrement venteux, avec une température maximale de 26°.
+Nuageux/Wind
