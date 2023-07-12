@@ -1,5 +1,5 @@
-10:10
-22 Celsius
-Des Moines, Iowa, États-Unis
-Des orages traverseront votre région.  La température maximale sera de 29°.
-Nuageux
+11:28
+29 Celsius
+Tappahannock, Virginie, États-Unis
+Le ciel sera ensoleillé.  La température maximale sera de 32°.
+Ensoleillé
