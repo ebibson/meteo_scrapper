@@ -1,5 +1,5 @@
-12:23
-41 Celsius
-Phoenix, Arizona, États-Unis
-Le ciel sera ensoleillé.  La température maximale sera de 42°.
-Ensoleillé
+14:43
+26 Celsius
+Des Moines, Iowa, États-Unis
+Le ciel sera ensoleillé.  La température maximale sera de 27°.
+Globalement ensoleillé
