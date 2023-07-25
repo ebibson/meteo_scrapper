@@ -1,5 +1,5 @@
-12:12
+12:32
 30 Celsius
-Boydton, Virginie, États-Unis
-Le ciel sera ensoleillé.  La température maximale sera de 33°.
-Ensoleillé
+Washington, Virginie, États-Unis
+Attendez-vous à un ciel partiellement ensoleillé.  La température maximale sera de 31°.
+Globalement ensoleillé
