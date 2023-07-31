@@ -1,5 +1,5 @@
-10:10
-31 Celsius
+10:28
+32 Celsius
 San Antonio, Texas, États-Unis
-Le ciel sera ensoleillé.  La température maximale sera de 39°.
+Le ciel sera ensoleillé.  La température maximale sera de 38°.
 Ensoleillé
