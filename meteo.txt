@@ -1,4 +1,4 @@
-12:23
-25 Celsius
-Le ciel sera ensoleillé.  La température maximale sera de 28°.
+15:43
+30 Celsius
+Attention aux averses de pluie éparses.  La température maximale sera de 30°.
 Ensoleillé
