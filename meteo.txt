@@ -1,4 +1,4 @@
-17:23
-26 Celsius
-Le ciel sera en grande partie nuageux.  La température maximale sera de 27°.
-Nuageux
+16:43
+40 Celsius
+Le ciel sera ensoleillé.  La température maximale sera de 41°.
+Ensoleillé
