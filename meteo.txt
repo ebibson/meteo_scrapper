@@ -1,4 +1,4 @@
-22:41
-22 Celsius
-Le ciel sera partiellement nuageux.  La température minimale sera de 21°.
-Partiellement nuageux
+22:09
+32 Celsius
+Le ciel sera dégagé.  La température minimale sera de 26°.
+Temps dégagé/Wind
