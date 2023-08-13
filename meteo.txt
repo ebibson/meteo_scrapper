@@ -1,4 +1,3 @@
-01:08
-24 Celsius
-Le ciel sera ensoleillé.  La température maximale sera de 34°.
-Globalement clair
+5:24 AM
+° Celsius
+
