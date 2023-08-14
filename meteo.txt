@@ -1,4 +1,4 @@
-01:28
-31 Celsius
-Le ciel sera ensoleillé.  La température maximale sera de 43°.
-Globalement clair
+03:43
+18 Celsius
+Attention aux averses de pluie éparses.  La température maximale sera de 22°.
+Nuageux
