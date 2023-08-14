@@ -1,4 +1,4 @@
-07:43
-24 Celsius
-Le ciel sera ensoleillé.  Le temps sera humide, avec une température maximale de 34°.
-Ensoleillé
+07:17
+26 Celsius
+Le ciel sera ensoleillé.  La température maximale sera de 41°.
+Globalement clair
