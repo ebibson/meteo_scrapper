@@ -1,4 +1,4 @@
-13:28
-27 Celsius
-Le ciel sera ensoleillé.  Le temps sera humide et légèrement venteux, avec une température maximale de 29°.
-Ensoleillé/Wind
+13:43
+38 Celsius
+Le ciel sera ensoleillé.  La température maximale sera de 40°.
+Ensoleillé
