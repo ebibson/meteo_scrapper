@@ -1,4 +1,4 @@
-01:12
-33 Celsius
-Le ciel sera ensoleillé.  La température maximale sera de 41°.
-Temps dégagé
+02:28
+23 Celsius
+Le ciel sera principalement ensoleillé.  La température maximale sera de 30°.
+Partiellement nuageux
