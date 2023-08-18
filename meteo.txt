@@ -1,4 +1,4 @@
-08:10
-16 Celsius
-Le ciel sera ensoleillé.  La température maximale sera de 28°.
+08:25
+27 Celsius
+Le ciel sera ensoleillé.  La température maximale sera de 41°.
 Ensoleillé
