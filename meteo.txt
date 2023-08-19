@@ -1,4 +1,4 @@
-22:23
-32 Celsius
-Le ciel sera dégagé.  La température minimale sera de 24°.
-Temps dégagé/Wind
+20:43
+19 Celsius
+Le ciel sera dégagé.  La température minimale sera de 15°.
+Temps dégagé
