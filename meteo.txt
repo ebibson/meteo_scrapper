@@ -1,4 +1,4 @@
-11:24
-24 Celsius
-Le ciel sera ensoleillé.  La température maximale sera de 28°.
-Ensoleillé
+10:43
+30 Celsius
+Attendez-vous à un ciel partiellement ensoleillé.  La température maximale sera de 36°.
+Globalement nuageux
