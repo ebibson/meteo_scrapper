@@ -1,4 +1,4 @@
 20:42
-25 Celsius
-Des orages devraient traverser votre région.  La température minimale sera de 22°.
-Globalement nuageux
+20 Celsius
+Le ciel sera dégagé.  La température minimale sera de 15°.
+Temps dégagé
