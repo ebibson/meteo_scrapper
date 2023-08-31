@@ -1,4 +1,4 @@
-16:10
+16:24
 26 Celsius
-Le ciel sera ensoleillé.  La température maximale sera de 26°.
-Ensoleillé
+Le ciel sera ensoleillé.  Le temps sera humide, avec une température maximale de 26°.
+Globalement ensoleillé
