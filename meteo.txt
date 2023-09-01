@@ -1,4 +1,4 @@
-03:23
-17 Celsius
-Le ciel sera ensoleillé.  La température maximale sera de 24°.
+00:43
+16 Celsius
+Le ciel sera nuageux.  La température maximale sera de 24°.
 Temps dégagé
