@@ -1,4 +1,4 @@
-23:12
-16 Celsius
-Le ciel sera nuageux.  La température minimale sera de 15°.
-Partiellement nuageux
+01:29
+28 Celsius
+Le ciel sera ensoleillé.  La température maximale sera de 39°.
+Temps dégagé
