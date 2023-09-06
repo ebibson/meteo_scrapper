@@ -1,4 +1,4 @@
-10:28
-29 Celsius
-Le ciel sera ensoleillé.  La température maximale sera de 35°.
-Ensoleillé
+09:43
+19 Celsius
+Le ciel sera en grande partie nuageux.  Le temps sera légèrement venteux, avec une température maximale de 27°.
+Brume
