@@ -1,4 +1,4 @@
-16:23
-26 Celsius
-Le ciel sera ensoleillé.  La température maximale sera de 27°.
-Ensoleillé
+17:43
+29 Celsius
+Des orages traverseront votre région.  La température maximale sera de 35°.
+Forte pluie
