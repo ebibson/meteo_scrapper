@@ -1,4 +1,4 @@
-16:07
-41 Celsius
-Le ciel sera ensoleillé.  La température maximale sera de 41°.
-Ensoleillé
+17:23
+32 Celsius
+Attention aux averses de pluie éparses.  La température maximale sera de 33°.
+Globalement ensoleillé
