@@ -1,4 +1,4 @@
-14:11
-32 Celsius
-Des orages traverseront votre région.  La température maximale sera de 32°.
-Globalement ensoleillé
+11:28
+25 Celsius
+Le ciel sera ensoleillé.  La température maximale sera de 30°.
+Ensoleillé
