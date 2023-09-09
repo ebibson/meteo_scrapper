@@ -1,4 +1,4 @@
-16:43
-28 Celsius
-Le ciel sera ensoleillé.  La température maximale sera de 30°.
-Ensoleillé/Wind
+20:41
+23 Celsius
+Le ciel sera en grande partie dégagé.  La température minimale sera de 20°.
+Globalement nuageux
