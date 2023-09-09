@@ -1,4 +1,4 @@
-12:06
-26 Celsius
-Le ciel sera ensoleillé.  La température maximale sera de 29°.
-Partiellement ensoleillé
+15:23
+29 Celsius
+Des orages violents gronderont.  Le temps sera humide, avec une température maximale de 30°.
+Orage
