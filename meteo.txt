@@ -1,4 +1,4 @@
-04:10
-20 Celsius
-Le ciel sera nuageux.  Le temps sera humide, avec une température maximale de 27°.
-Globalement nuageux
+01:25
+15 Celsius
+Le ciel sera principalement ensoleillé.  La température maximale sera de 28°.
+Temps dégagé
