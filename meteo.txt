@@ -1,4 +1,4 @@
-11:29
-21 Celsius
-Attendez-vous à un ciel partiellement ensoleillé.  La température maximale sera de 24°.
-Ensoleillé
+12:43
+23 Celsius
+Emportez votre parapluie. La journée sera pluvieuse.  La température maximale sera de 24°.
+Pluie
