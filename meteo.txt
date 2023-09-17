@@ -1,4 +1,4 @@
-16:08
-23 Celsius
-Emportez votre parapluie. La journée sera pluvieuse.  La température maximale sera de 25°.
-Nuageux
+13:23
+25 Celsius
+Le ciel sera ensoleillé.  La température maximale sera de 26°.
+Ensoleillé
