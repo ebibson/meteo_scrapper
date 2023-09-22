@@ -1,4 +1,4 @@
-16:23
-24 Celsius
-Le ciel sera ensoleillé.  La température maximale sera de 26°.
-Ensoleillé
+19:43
+18 Celsius
+De fortes pluies sont prévues.  Le temps sera légèrement venteux, avec une température minimale de 14°.
+Forte pluie/Wind
