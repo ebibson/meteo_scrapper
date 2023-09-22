@@ -1,4 +1,4 @@
-10:08
-18 Celsius
-Le ciel sera ensoleillé.  La température maximale sera de 26°.
-Brume
+13:26
+21 Celsius
+Le ciel sera en grande partie nuageux.  La température maximale sera de 22°.
+Globalement nuageux
