@@ -1,4 +1,4 @@
-13:28
-20 Celsius
-Le ciel sera nuageux.  La température maximale sera de 23°.
-Nuageux
+14:43
+21 Celsius
+Emportez votre parapluie. La journée sera pluvieuse.  La température maximale sera de 22°.
+Nuageux/Wind
