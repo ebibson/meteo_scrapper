@@ -1,4 +1,4 @@
-11:10
-22 Celsius
-Le ciel sera nuageux.  La température maximale sera de 24°.
+11:25
+19 Celsius
+Le ciel sera nuageux.  La température maximale sera de 20°.
 Globalement nuageux
