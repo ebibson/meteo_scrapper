@@ -1,4 +1,4 @@
-07:18
-15 Celsius
-Le ciel sera en grande partie nuageux.  La température maximale sera de 23°.
-Brouillard
+08:45
+16 Celsius
+Le ciel sera nuageux.  La température maximale sera de 19°.
+Nuageux
