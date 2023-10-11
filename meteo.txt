@@ -1,4 +1,4 @@
-21:11
-28 Celsius
-Le ciel sera dégagé.  La température minimale sera de 21°.
-Temps dégagé
+23:28
+19 Celsius
+Le ciel sera nuageux.  La température minimale sera de 18°.
+Nuageux
