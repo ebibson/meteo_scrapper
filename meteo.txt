@@ -1,4 +1,4 @@
-23:43
-18 Celsius
-Le ciel sera nuageux.  La température minimale sera de 18°.
-Nuageux
+22:08
+17 Celsius
+Le ciel sera en grande partie nuageux.  La température minimale sera de 12°.
+Globalement nuageux
