@@ -1,4 +1,4 @@
-21:42
-12 Celsius
-Le ciel sera partiellement nuageux.  La température minimale sera de 8°.
-Nuageux
+19:15
+27 Celsius
+Le ciel sera dégagé.  La température minimale sera de 19°.
+Temps dégagé
