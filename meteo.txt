@@ -1,4 +1,4 @@
-08:09
-21 Celsius
-Le ciel sera ensoleillé.  La température maximale sera de 32°.
-Ensoleillé
+10:25
+14 Celsius
+De fortes pluies sont prévues pendant la journée.  La température maximale sera de 22°.
+Pluie
