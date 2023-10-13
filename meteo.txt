@@ -1,4 +1,4 @@
-20:25
-24 Celsius
-Le ciel sera dégagé.  La température minimale sera de 16°.
-Globalement clair
+23:43
+10 Celsius
+Le ciel sera dégagé.  La température minimale sera de 8°.
+Temps dégagé
