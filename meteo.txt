@@ -1,4 +1,4 @@
-10:08
-10 Celsius
-Le ciel sera nuageux.  La température maximale sera de 12°.
-Nuageux
+11:23
+15 Celsius
+De fortes pluies sont prévues pendant la journée.  La température maximale sera de 18°.
+Forte pluie
