@@ -1,4 +1,4 @@
-23:23
-15 Celsius
-Le ciel sera en grande partie nuageux.  La température minimale sera de 14°.
-Globalement nuageux
+23:43
+11 Celsius
+Le ciel sera en grande partie dégagé.  La température minimale sera de 10°.
+Temps dégagé
