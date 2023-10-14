@@ -1,4 +1,4 @@
-14:11
+14:27
 16 Celsius
-Emportez votre parapluie. La journée sera pluvieuse.  La température maximale sera de 18°.
-Nuageux
+De fortes pluies sont prévues pendant la journée.  La température maximale sera de 18°.
+Forte pluie
