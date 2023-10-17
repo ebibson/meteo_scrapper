@@ -1,4 +1,4 @@
-11:10
+11:26
 16 Celsius
-Attendez-vous à un ciel partiellement ensoleillé.  La température maximale sera de 18°.
-Globalement ensoleillé
+Le ciel sera en grande partie nuageux.  La température maximale sera de 18°.
+Globalement nuageux
