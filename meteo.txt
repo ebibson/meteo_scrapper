@@ -1,4 +1,4 @@
-23:10
+23:24
 11 Celsius
-Le ciel sera dégagé.  La température minimale sera de 9°.
-Temps dégagé
+Le ciel sera dégagé.  La température minimale sera de 10°.
+Partiellement nuageux
