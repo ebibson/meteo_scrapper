@@ -1,4 +1,4 @@
-13:11
+13:29
 29 Celsius
-Attendez-vous à un ciel partiellement ensoleillé.  La température maximale sera de 31°.
-Globalement nuageux
+Le ciel sera en grande partie nuageux.  La température maximale sera de 31°.
+Nuageux
