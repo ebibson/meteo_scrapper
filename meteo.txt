@@ -1,4 +1,4 @@
-11:12
-20 Celsius
-Le ciel sera ensoleillé.  Le temps sera humide, avec une température maximale de 26°.
+12:31
+15 Celsius
+Le ciel sera ensoleillé.  La température maximale sera de 18°.
 Ensoleillé
