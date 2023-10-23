@@ -1,4 +1,4 @@
-08:45
-6 Celsius
-Le ciel sera ensoleillé.  La température maximale sera de 18°.
-Globalement nuageux
+08:13
+11 Celsius
+Des orages traverseront votre région.  Le temps sera humide, avec une température maximale de 26°.
+Ensoleillé
