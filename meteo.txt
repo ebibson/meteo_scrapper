@@ -1,4 +1,4 @@
-03:10
-20 Celsius
-Le ciel sera principalement ensoleillé.  La température maximale sera de 29°.
-Globalement clair
+05:30
+23 Celsius
+De fortes pluies sont prévues pendant la journée.  Le temps sera humide, avec une température maximale de 29°.
+Globalement nuageux
