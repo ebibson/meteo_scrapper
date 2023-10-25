@@ -1,4 +1,4 @@
-14:43
-23 Celsius
-Le ciel sera ensoleillé.  La température maximale sera de 24°.
-Ensoleillé
+14:07
+30 Celsius
+Des orages violents gronderont.  Le temps sera humide, avec une température maximale de 30°.
+Globalement nuageux
