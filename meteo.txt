@@ -1,4 +1,4 @@
-20:43
+00:11
 14 Celsius
-Le ciel sera partiellement nuageux.  La température minimale sera de 7°.
-Globalement nuageux
+Le ciel sera ensoleillé.  La température maximale sera de 27°.
+Globalement clair
