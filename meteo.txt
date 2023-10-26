@@ -1,4 +1,4 @@
-02:12
-14 Celsius
-Le ciel sera ensoleillé.  La température maximale sera de 27°.
-Globalement clair
+02:29
+10 Celsius
+Le ciel sera ensoleillé.  Le temps sera humide, avec une température maximale de 25°.
+Temps dégagé
