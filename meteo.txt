@@ -1,4 +1,4 @@
-03:43
-13 Celsius
-Le ciel sera ensoleillé.  La température maximale sera de 21°.
-Globalement clair
+07:07
+10 Celsius
+Le ciel sera ensoleillé.  Le temps sera humide, avec une température maximale de 25°.
+Globalement nuageux
