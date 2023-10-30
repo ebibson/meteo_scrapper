@@ -1,4 +1,4 @@
-01:43
--2 Celsius
-Le ciel sera ensoleillé.  La température maximale sera de 4°.
-Temps dégagé
+02:09
+7 Celsius
+Emportez votre parapluie. La journée sera pluvieuse.  La température maximale sera de 9°.
+Forte pluie
