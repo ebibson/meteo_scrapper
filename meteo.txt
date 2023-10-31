@@ -1,4 +1,4 @@
-05:44
-13 Celsius
-Le ciel sera ensoleillé.  La température maximale sera de 28°.
-Globalement clair
+09:11
+9 Celsius
+Emportez votre parapluie. La journée sera pluvieuse.  La température maximale sera de 10°.
+Nuageux
