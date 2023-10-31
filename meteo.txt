@@ -1,4 +1,4 @@
-04:28
-11 Celsius
-Emportez votre parapluie. La journée sera pluvieuse.  La température maximale sera de 11°.
-Nuageux
+01:43
+10 Celsius
+Le ciel sera ensoleillé.  La température maximale sera de 26°.
+Temps dégagé
