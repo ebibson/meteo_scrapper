@@ -1,4 +1,4 @@
-16:10
-9 Celsius
-De faibles pluies sont prévues pendant la journée.  La température maximale sera de 9°.
-Nuageux
+15:24
+16 Celsius
+Le ciel sera ensoleillé.  La température maximale sera de 16°.
+Ensoleillé
