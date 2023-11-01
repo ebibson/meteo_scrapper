@@ -1,4 +1,4 @@
-10:08
-3 Celsius
-Le ciel sera principalement ensoleillé.  La température maximale sera de 8°.
-Ensoleillé/Wind
+09:27
+8 Celsius
+Le ciel sera ensoleillé.  La température maximale sera de 17°.
+Ensoleillé
