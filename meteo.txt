@@ -1,4 +1,4 @@
-23:10
-3 Celsius
-Le ciel sera dégagé.  La température minimale sera de -1°.
+20:24
+15 Celsius
+Le ciel sera dégagé.  La température minimale sera de 7°.
 Temps dégagé
