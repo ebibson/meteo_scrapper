@@ -1,4 +1,4 @@
-17:43
-23 Celsius
-Le ciel sera ensoleillé.  La température maximale sera de 27°.
-Ensoleillé
+20:43
+10 Celsius
+Attendez-vous à des averses de pluie éparses.  La température minimale sera de 5°.
+Pluie
