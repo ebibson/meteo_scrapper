@@ -1,4 +1,4 @@
-02:12
-13 Celsius
-Emportez votre parapluie. La journée sera pluvieuse.  La température maximale sera de 16°.
+03:28
+16 Celsius
+Le ciel sera en grande partie nuageux.  La température maximale sera de 16°.
 Nuageux
