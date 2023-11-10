@@ -1,4 +1,4 @@
-11:43
-7 Celsius
-Le ciel sera ensoleillé.  La température maximale sera de 10°.
-Ensoleillé
+13:12
+11 Celsius
+Attention aux averses de pluie éparses.  La température maximale sera de 15°.
+Nuageux
