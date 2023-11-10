@@ -1,4 +1,4 @@
-14:08
-25 Celsius
-Le ciel sera ensoleillé.  La température maximale sera de 25°.
-Ensoleillé
+16:23
+9 Celsius
+Emportez votre parapluie. La journée sera pluvieuse.  La température maximale sera de 13°.
+Nuageux
