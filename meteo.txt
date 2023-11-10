@@ -1,4 +1,4 @@
-03:28
-16 Celsius
-Le ciel sera en grande partie nuageux.  La température maximale sera de 16°.
-Nuageux
+02:43
+1 Celsius
+Le ciel sera ensoleillé.  La température maximale sera de 10°.
+Temps dégagé
