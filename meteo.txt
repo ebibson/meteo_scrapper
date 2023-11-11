@@ -1,4 +1,4 @@
-07:43
-1 Celsius
-Le ciel sera ensoleillé.  La température maximale sera de 9°.
-Ensoleillé
+09:07
+9 Celsius
+Attendez-vous à un ciel partiellement ensoleillé.  La température maximale sera de 16°.
+Nuageux
