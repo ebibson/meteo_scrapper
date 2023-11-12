@@ -1,4 +1,4 @@
-20:52
-5 Celsius
-Le ciel sera partiellement nuageux.  La température minimale sera de 3°.
-Globalement nuageux
+19:22
+20 Celsius
+Le ciel sera dégagé.  La température minimale sera de 14°.
+Globalement clair
