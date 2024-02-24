@@ -1,4 +1,4 @@
-02:10
--4°C Celsius
-Le ciel sera en grande partie nuageux.  La température maximale sera de 0°.
-Nuageux
+00:25
+10°C Celsius
+Le ciel sera principalement ensoleillé.  La température maximale sera de 20°.
+Globalement clair
