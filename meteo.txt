@@ -1,4 +1,4 @@
-14:13
-30°C Celsius
-Le ciel sera ensoleillé.  Le temps sera humide, avec une température maximale de 31°.
-Ensoleillé
+13:30
+25°C Celsius
+Le ciel sera principalement ensoleillé.  Le temps sera humide, avec une température maximale de 25°.
+Globalement ensoleillé
