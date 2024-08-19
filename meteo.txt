@@ -1,4 +1,4 @@
-16:12
-25°C Celsius
-Le ciel sera ensoleillé.  La température maximale sera de 27°.
-Ensoleillé/Venteux
+19:27
+22°C Celsius
+Le ciel sera en grande partie nuageux.  Le temps sera humide, avec une température maximale de 27°.
+Globalement nuageux
