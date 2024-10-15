@@ -1,4 +1,4 @@
-13:13
-25°C Celsius
-Le ciel sera ensoleillé.  La température maximale sera de 26°.
-Ensoleillé
+15:30
+9°C Celsius
+Des orages traverseront votre région.  Le temps sera très venteux, avec une température maximale de 9°.
+Nuageux
