@@ -1,4 +1,4 @@
-12:40
--1°C Celsius
-Le ciel sera nuageux.  La température maximale sera de -1°.
-Nuageux
+11:10
+12°C Celsius
+Le ciel sera principalement ensoleillé.  La température maximale sera de 15°.
+Ensoleillé
