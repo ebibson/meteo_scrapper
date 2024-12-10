@@ -1,4 +1,4 @@
-15:29
-0°C Celsius
-Le ciel sera nuageux.  La température maximale sera de 1°.
-Nuageux
+14:43
+18°C Celsius
+Le ciel sera ensoleillé.  La température maximale sera de 18°.
+Ensoleillé
