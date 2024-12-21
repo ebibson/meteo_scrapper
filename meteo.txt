@@ -1,4 +1,4 @@
-17:10
--5°C Celsius
-Le ciel sera partiellement nuageux.  La température minimale sera de -7°.
-Partiellement nuageux
+15:26
+16°C Celsius
+Le ciel sera nuageux.  La température maximale sera de 16°.
+Nuageux
