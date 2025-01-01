@@ -1,4 +1,4 @@
-11:46
-10°C Celsius
-Le ciel sera ensoleillé.  La température maximale sera de 11°.
-Ensoleillé/Venteux
+11:10
+-1°C Celsius
+Le ciel sera nuageux.  Le temps sera très venteux, avec une température maximale de 0°.
+Nuageux
