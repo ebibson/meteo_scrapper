@@ -1,4 +1,4 @@
-12:12
-13°C Celsius
-Le ciel sera ensoleillé.  La température maximale sera de 15°.
-Brume
+15:28
+9°C Celsius
+Le ciel sera ensoleillé.  La température maximale sera de 10°.
+Ensoleillé
