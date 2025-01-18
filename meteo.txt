@@ -1,4 +1,4 @@
-02:10
--1°C Celsius
-Le ciel sera en grande partie nuageux.  La température maximale sera de 7°.
-Globalement nuageux
+02:24
+1°C Celsius
+Le ciel sera en grande partie nuageux.  La température maximale sera de 9°.
+Nuageux
