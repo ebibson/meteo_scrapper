@@ -1,4 +1,4 @@
-14:19
--2°C Celsius
-Le ciel sera nuageux.  Le temps sera très venteux, avec une température maximale de -2°.
-Nuageux
+13:45
+5°C Celsius
+Le ciel sera ensoleillé.  La température maximale sera de 5°.
+Ensoleillé
