@@ -1,4 +1,4 @@
-05:42
-13°C Celsius
-Apportez un parapluie car de la pluie est attendue.  La température maximale sera de 14°.
-Pluie
+14:56
+12°C Celsius
+Le ciel sera nuageux.  La température maximale sera de 12°.
+Nuageux
